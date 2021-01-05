@@ -1,6 +1,8 @@
 """
 It provides some very useful features for Machine Learning projects like:
 
+
+
 Noun phrase extraction
 Part-of-speech tagging
 Sentiment analysis
@@ -15,6 +17,8 @@ Add new models or languages through extensions
 WordNet integration
 You can simply install the TextBlob library in your systems by writing a pip command; pip install textblob.
 """
+
+
 from textblob import TextBlob
 
 words = ["deta","analyeis"]
